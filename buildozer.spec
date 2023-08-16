@@ -1,4 +1,6 @@
 [app]
+# (int) Android SDK version to use
+android.sdk = 24
 
 # (str) Title of your application
 title = SampleApp
